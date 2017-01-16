@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'gooddogregular';
+    src: url('GoodDog-webfont.eot');
+    src: url('GoodDog-webfont.eot?#iefix') format('embedded-opentype'),
+         url('GoodDog-webfont.woff') format('woff'),
+         url('GoodDog-webfont.ttf') format('truetype'),
+         url('GoodDog-webfont.svg#gooddogregular') format('svg');
+}
+
+body
+{
+    background-image: url("licwall.jpg");
+    background-attachment: fixed; 
+}
+
+.nom
+{
+	color: fuchsia;
+	text-align: center;
+	font-family: 'gooddogregular', Arial, serif;
+	font-size: 40px;
+}
+
+.phrase
+{
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold
+    text-shadow: 2px 2px 4px red;
+}
+
+img
+{
+    border: 4px red outset;
+    box-shadow: 8px	8px	8px black;
+}
+
+h2
+{
+	background-color: white;
+	color: red;
+	text-align: center;
+	border: 4px fuchsia double;
+}
+ul, .formation
+{
+	font-weight: bold;
+}
