@@ -13,36 +13,10 @@ body
     background-attachment: fixed; 
 }
 
-.nom
+form
 {
-	color: fuchsia;
+	border: 4px red outset;
 	text-align: center;
-	font-family: 'gooddogregular', Arial, serif;
-	font-size: 40px;
-}
-
-.phrase
-{
-	text-align: center;
-	font-size: 30px;
 	font-weight: bold
     text-shadow: 2px 2px 4px red;
-}
-
-img
-{
-    border: 4px red outset;
-    box-shadow: 8px	8px	8px black;
-}
-
-h2
-{
-	background-color: white;
-	color: red;
-	text-align: center;
-	border: 4px fuchsia double;
-}
-ul, .formation
-{
-	font-weight: bold;
 }
