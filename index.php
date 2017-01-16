@@ -9,11 +9,8 @@
 
 		<form action="cible.php" method="POST">
 		<p><label>Prenom : <input type="text" name="Prenom"></label></p>
-		<p><input type="submit" /></p>
 		<p><label>nom : <input type="text" name="nom"></label></p>
-		<p><input type="submit" /></p>
 		<p><label>date : <input type="date" name="date"></label></p>
-		<p><input type="submit" /></p>
 		<p><label>commentaire : <input type="text" name="commentaire"></label></p>
 		<p><input type="submit" /></p>
 		</form>
